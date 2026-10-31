@@ -15,15 +15,15 @@ Add your screenshots to the `screenshots` folder in the project.
 
 ### Camera screen
 <!-- Add a screenshot of the app before taking a photo -->
-![Camera screen](screenshots/camera_screen.png)
+<img src="screenshots/camera_screen.png" width="400" alt="Camera screen">
 
 ### Captured photo
 <!-- Add a screenshot showing the photo captured in the app -->
-![Captured photo](screenshots/captured_photo.png)
+<img src="screenshots/captured_photo.png" width="400" alt="Captured photo">
 
 ### Share interface
 <!-- Add a screenshot of Android's sharing interface -->
-![Share interface](screenshots/share_interface.png)
+<img src="screenshots/share_interface.png" width="400" alt="Share interface">
 
 ## Technologies Used
 
